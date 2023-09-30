@@ -36,4 +36,3 @@ Consensus Search is a powerful search engine that leverages the wisdom of crowds
 - [OpenAI](https://www.openai.com/) for their GPT API
 - [PRAW (Python Reddit API Wrapper)](https://praw.readthedocs.io/)
 - All contributors and users of Consensus Search, helping us build a better search experience for everyone
-- All contributors and users of Consensus Search, helping us build a better search experience for everyone
