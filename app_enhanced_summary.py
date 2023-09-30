@@ -23,10 +23,10 @@ comments_table = dynamodb.Table('6998-comments-db')
 cache_table = dynamodb.Table('consensus-cache')
 search_table = dynamodb.Table('consensus-searches')
 
-openai.api_key = "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"
-os.environ["OPENAI_API_KEY"] = "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"
+openai.api_key = "REDACTED"
+os.environ["OPENAI_API_KEY"] = "REDACTED"
 
-API_KEY = "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"
+API_KEY = "REDACTED"
 anthropic_client = anthropic.Client(API_KEY)
 
 
