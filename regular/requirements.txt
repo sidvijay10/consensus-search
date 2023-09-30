@@ -1,8 +1,0 @@
-openai
-pandas
-numpy
-pinecone-client
-tiktoken
-tqdm
-anthropic
-langchain
